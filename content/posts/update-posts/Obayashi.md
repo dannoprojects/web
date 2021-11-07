@@ -5,10 +5,10 @@ draft: false
 theme: Toha
 menu:
     sidebar:
-        name: Obayashi Job
+        name: Obayashi
         identifier: update-posts-obayashi-job
         parent: update-posts
         weight: 30
 ---
 
-After a number of great years at OmnicomMediaGroup, I've accecpted a position at Obayashi as a Systems Engineer.  I'm excited for a new journeys and technolgies.
+After a number of great years at OmnicomMediaGroup, I've accecpted a position at Obayashi as a Systems Engineer.  I'm excited to work on new projects and technologies.
