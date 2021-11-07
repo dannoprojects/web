@@ -1,0 +1,46 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: Senior Systems Engineer
+# your company information
+company:
+  name: Obayashi North America
+  url: "https://www.obayashi.co.jp/en/"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: "I’m a Senior System Enginner automating enterprise tasks with PowerShell, Power Platform, software development, and problem solving skills.\ 
+  I've been working on projects to modernize Obayashi's workloads."
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/dannoprojects/"
+- name: LinkedIn
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/dan-rowe-75a33413/"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Collaboration
+  percentage: 100
+  color: blue
+- name: Project Management
+  percentage: 100
+  color: orange
+- name: Self Directed
+  percentage: 100
+  color: yellow

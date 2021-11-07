@@ -1,0 +1,46 @@
+# section information
+section:
+  name: Skills
+  id: skills
+  enable: true
+  weight: 2
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your Skills.
+# Give a summary of you each skill in the summary section.
+skills:
+- name: PowerShell
+  logo: /images/sections/skills/powershell.png
+  summary: "Primary automation and scripting language"
+  url: "https://docs.microsoft.com/en-us/powershell/"
+
+- name: Power Automate
+  logo: /images/sections/skills/powerautomate.png
+  summary: "Automate routine processes"
+  url: "https://techcommunity.microsoft.com/t5/power-automate/ct-p/PowerAutomate"
+
+- name: Power Apps
+  logo: /images/sections/skills/powerapp.png
+  summary: "Build custom applications to improve productivity and reduce effort."
+  url: "https://powerapps.microsoft.com/en-us/"
+
+- name: Power BI
+  logo: /images/sections/skills/powerbi.png
+  summary: "Build interactive dashboards and reports"
+  url: "https://community.powerbi.com/"
+
+- name: Azure
+  logo: /images/sections/skills/azure.png
+  summary: "Azure Cloud Computing"
+  url: "https://azure.microsoft.com/en-us/"
+
+- name: Git
+  logo: /images/sections/skills/git.png
+  summary: "Mange code repositories"
+  url: "https://git-scm.com/"
+
+# - name: Cloud Computing
+  # logo: "/images/sections/skills/cloud.png"
+  # summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."

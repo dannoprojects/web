@@ -1,0 +1,28 @@
+# section information
+section:
+  name: Accomplishments
+  id: accomplishments
+  enable: true
+  weight: 7
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+
+# Your accomplishments
+accomplishments:
+- name: Azure Fundamentals
+  timeline: "April 2021"
+  organization:
+    name: Microsoft
+    url: https://docs.microsoft.com/en-us/learn/certifications/exams/az-900
+  courseOverview: Foundational knowledge of cloud concepts, Azure Services, Azure workloads, security, privacy, pricing, and support.
+  certificateURL: "https://www.credly.com/badges/c70073c4-cf59-4bb5-8aed-d28981b967b1/public_url"
+
+- name: AWS Certified Cloud Practitioner
+  timeline: "June 2019"
+  organization:
+    name: AWS
+    url: https://www.credly.com/organizations/amazon-web-services/badges
+  courseOverview: Earners of this certification have a fundamental understanding of IT services and their uses in the AWS Cloud. They demonstrated cloud fluency and foundational AWS knowledge. Badge owners are able to identify essential AWS services necessary to set up AWS-focused projects.
+  certificateURL: "https://www.credly.com/badges/a31bcbbc-ade5-4a12-9315-544ac2eb7b24/public_url"

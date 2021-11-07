@@ -1,0 +1,58 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Obayashi North America
+    url: "https://www.obayashi.co.jp/en/"
+    location: North America
+    # company overview
+    overview: Civil Engineering and Construction
+  positions:
+  - designation: Senior Systems Engineer
+    start: October 2020
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Evaluate new technologies and platforms for business.
+    - Collaborate across departments to deliver technology solutions.
+    - Evaluate, design, and deliever automations using PowerShell, Power Platform, or other technoligies.
+    - Maintain O365 and Azure enviornment.
+
+- company:
+    name: OmnicomMediaGroup
+    url: "https://www.omnicommediagroup.com"
+    location: San Francisco
+    overview: Marketing and Advertising
+  positions:
+  - designation: Systems Administrator
+    start: January 2019
+    end: October 2020
+    responsibilities:
+    - Automate IT Processes using PowerShell.
+    - Project Lead for OMG's ProofPoint migration.
+    - Technical Team member for OMG's O365 tenant consolidation project.
+
+- company:
+    name: OmnicomMediaGroup
+    url: "https://www.omnicommediagroup.com"
+    location: San Francisco
+    overview: Marketing and Advertising
+  positions:
+  - designation: Support Specialist
+    start: Feburary 2015
+    end: December 2018
+    responsibilities:
+    - O365 Exchange Administrator
+    - ProofPoint Email Protection Product Manager
+    - Managed File Transfer (MFT) Product Manager
+    - C-Level Execetive Support
