@@ -1,0 +1,15 @@
+# Personal info
+name: "Dan Rowe"
+nickname: "Dan"
+greeting: "Hi, I'm"
+image: "images/profile.jpg"
+# avatar: "images/default-avatar.png"
+# give your contact information. they will be used in the footer
+contactInfo:
+  email: "dannoprojects 'at' gmail.com"
+# a summary of what you do
+summary:
+- I am a Sys Admin.
+- I love PowerShell.
+- I am excited about the Power Platform.
+- Automate all the things!
