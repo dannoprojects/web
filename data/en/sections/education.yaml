@@ -1,0 +1,36 @@
+# section information
+section:
+  name: Education
+  id: education
+  template: sections/education.html # Use "sections/education-alt.html for alternate template.
+  enable: true
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+degrees:
+- name: Bachelor of Arts (BA), Psychology
+  icon: fa-graduation-cap
+  timeframe: 1993-1997
+  institution:
+    name: Concord University
+    url: "http://www.concord.edu"
+
+- name: Computer Science
+  icon: fa-school
+  timeframe: 2017-2018
+  institution:
+    name: City College of San Francisco
+    url: "https://www.ccsf.edu/"
+  takenCourses: #(optional)
+    # if true, the courses will be rendered as a table otherwise it will render as a list and the grades will be hidden.
+    showGrades: false
+    courses:
+    - name: Data Structures and Algorithms
+      achieved: 3.75
+      outOf: 4
+    - name: Java Programming Fundamentals
+      achieved: 3.80
+      outOf: 4
+

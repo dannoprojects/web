@@ -13,17 +13,17 @@ section:
 skills:
 - name: PowerShell
   logo: /images/sections/skills/powershell.png
-  summary: "Primary automation and scripting language"
+  summary: "Primary automation and scripting language used to manage systems or build complete modules."
   url: "https://docs.microsoft.com/en-us/powershell/"
 
 - name: Power Automate
   logo: /images/sections/skills/powerautomate.png
-  summary: "Automate routine processes"
+  summary: "Created work flow automation to reduce manual effort."
   url: "https://techcommunity.microsoft.com/t5/power-automate/ct-p/PowerAutomate"
 
 - name: Power Apps
   logo: /images/sections/skills/powerapp.png
-  summary: "Build custom applications to improve productivity and reduce effort."
+  summary: "Created custom applications to improve productivity."
   url: "https://powerapps.microsoft.com/en-us/"
 
 - name: Power BI
