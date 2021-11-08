@@ -34,7 +34,7 @@ params:
   # GitHub repo URL and branch of your site
   gitRepo: https://github.com/dannoprojects/web
   gitBranch: main
-  background: "images/Scooter.jpg"
+  background: "static/images/Scooter.jpg"
 
   # specify whether you want to write some blog posts or not
   enableBlogPost: true
