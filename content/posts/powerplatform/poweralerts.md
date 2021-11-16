@@ -16,7 +16,7 @@ menu:
 We have a job site where power outages occur more often than we'd like.  The site engineer and other key staff members need to know when the power fluctuates while they work out a more robust back up power system for their construction requirements. Naturally, we have an APC UPS on site for our network equipment.  Why not use that as a monitoring device and get messages to our enginners. 
  
 #### Solution
-I used our Twilio connector and a Shared Mailbox trigger to send SMS messages to the site engineers members. I could have sent emails, but who's inbox isn't swamped with noise?  Plus, the site is in a remote area, and SMS is more reliable than email.
+I used our Twilio connector and a Shared Mailbox trigger to send SMS messages to the site engineers. I could have sent emails, but who's inbox isn't swamped with noise?  Plus, the site is in a remote area, and SMS is more reliable than email.
 
 The Alerts
 - Critical alert when the UPS has less than 5 minutes of battery.
