@@ -11,4 +11,4 @@ menu:
         weight: 30
 ---
 
-After a number of great years at OmnicomMediaGroup, I've accecpted a position at Obayashi as a Systems Engineer.  I'm excited to work on new projects and technologies.
+After a number of great years at OmnicomMediaGroup, I've accecpted a position at Obayashi as a Systems Engineer.  It was great working with everyone at OMG, especially Jon Serrette. 
