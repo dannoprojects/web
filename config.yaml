@@ -28,7 +28,7 @@ outputs:
 
 # Enable global emoji support
 enableEmoji: true
-googleAnalytics: G-J41MJKPXF4
+googleAnalytics: "G-J41MJKPXF4"
 # Site parameters
 params:
   # GitHub repo URL and branch of your site
