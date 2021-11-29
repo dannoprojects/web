@@ -11,7 +11,15 @@ section:
 
 # Your accomplishments
 accomplishments:
-- name: Azure Fundamentals
+- name: "Microsoft Certified: Power Platform Fundamentals" 
+  timeline: "November 2021"
+  organization:
+    name: Microsoft
+    url: https://docs.microsoft.com/en-us/learn/certifications/exams/pl-900
+  courseOverview: Earners of the Power Platform Fundamentals certification are users who aspire to improve productivity by automating business processes, analyzing data to produce business insights, and acting more effectively by creating simple app experiences.
+  certificateURL: "https://www.credly.com/badges/20f29ea7-81ca-419e-9fde-2316e5302cfd"
+
+- name: "Microsoft Certified: Azure Fundamentals"
   timeline: "April 2021"
   organization:
     name: Microsoft
