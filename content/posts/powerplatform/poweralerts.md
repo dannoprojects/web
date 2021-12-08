@@ -46,7 +46,5 @@ It looks complicated but isn't really.
 
 ##### Code Snippets of Interest
 Expression to take current time and convert to Pacific Standard Time. 
-```
-convertTimeZone(utcNow(),'UTC','Pacific Standard Time')
-```
+
 {{< gist dannoprojects 4d197babf841e70470e70d17f7afc9bd "Date Conversion" >}}
