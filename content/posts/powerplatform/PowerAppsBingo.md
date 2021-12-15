@@ -41,7 +41,7 @@ My final solution used single tables.  I did need to do a bit of extra manual wo
 
 Here's my formula for setting up my 'B' values. The pattern applies to INGO.
 
-I create the table and continue to reassign it. I could have probably wrapped all of this up in parens to make a single line, but I find that difficult to read.
+I create the table and continue to reassign it. I could have probably wrapped all of this up in parentheses to make a single line, but I find that difficult to read.
 
 {{< gist dannoprojects 4cbfd2d9820039a1743b316096fc344f "CreateBColumn.txt" >}}
 
