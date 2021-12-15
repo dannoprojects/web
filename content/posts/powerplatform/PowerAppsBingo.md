@@ -13,7 +13,7 @@ menu:
 
 
 #### Problem
-Not really a problem.  Just an interesting mini project.  The office holiday party is a virtual affiar this year. Our leadership wanted to play Bingo to give away some extra gifts. Our web filter blocks pretty much anything that would host an online Bingo game, so I knocked out a Bingo Canvas App.
+Not really a problem.  Just an interesting mini project.  The office holiday party is a virtual affair this year. Our leadership wanted to play Bingo to give away some extra gifts. Our web filter blocks pretty much anything that would host an online Bingo game, so I knocked out a Bingo Canvas App.
  
 #### Solution
 - Canvas App based on American Bingo
