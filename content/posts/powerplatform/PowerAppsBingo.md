@@ -58,4 +58,5 @@ Here I use OnSelect and Fill.
 {{< gist dannoprojects 4cbfd2d9820039a1743b316096fc344f "OnSelect.txt" >}}
 
 ##### Future considerations
-I might create an app to generate bingo numbers.  I didn't need to here as the host already has a way getting the numbers.  I probably could have handled my buttons actions with less effort.  
+- I might create an app to generate bingo numbers.  I didn't need to here as the host already has a way getting the numbers.  
+- I probably could have handled my buttons actions with less effort.  
