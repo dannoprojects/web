@@ -60,3 +60,6 @@ Here I use OnSelect and Fill.
 ##### Future considerations
 - I might create an app to generate bingo numbers.  I didn't need to here as the host already has a way getting the numbers.  
 - I probably could have handled my buttons actions with less effort.  
+
+##### References
+- [American Bingo](https://en.wikipedia.org/wiki/Bingo_(American_version))
