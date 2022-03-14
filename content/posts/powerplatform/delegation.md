@@ -10,7 +10,7 @@ menu:
         parent: powerplatform
         weight: 50
 ---
-I’ve been working on a canvas app to track and manage major IT projects that uses a SharePoint list as a datasource.  Our executives also use the app and the PowerBI dashboard to review projects that require executive approval in the form of what we call our Change Advisory Board (CAB).
+I’ve been working on a canvas app to track and manage major IT projects. The app uses a SharePoint list as a datasource.  Our executives also use the app and the PowerBI dashboard to review projects that require executive approval in the form of what we call our Change Advisory Board (CAB).
 
 I recieved feedback from a member of our CAB.  “It would be nice to separate out the completed projects from all the other projects.” 
  
@@ -19,8 +19,13 @@ I thought it would be easy to change my filter syntax to include  project status
 #### Problem
 Using ‘Not’ in a gallery filter results in a delegation warning with a SharePoint List.
 
+**The dreaded delegation warning**
+
+![Delegation Warning](/posts/powerplatform/Delegation/delegationimage.jpg)
+
+
 #### Solution
-In this use case, I resolved my delegation and filter dilemma with a new choice column in my datasource named “Archived” with the values of ‘true’ or ‘false’.  Since ‘=’ can be delegated, I flag all completed projects as Archived. 
+In this use case, I resolved my delegation and filter dilemma with a new choice column in my datasource named “Archived” with the values of ‘true’ or ‘false’.  Since equals to can be delegated, I make an equals to comparison to 'false' to show all active projects.
 
 Now I have a filter expression that uses my various project filters and meets my user request. 
 
@@ -29,7 +34,7 @@ I decided to use a PowerAutomate flow to set my archive flag.  I have other help
 
 ##### Components
 - SharePoint List as a datasource
-- Choice lolumn named "ArchiveStatus" with values of 'true' and 'false' 
+- Choice column named "ArchiveStatus" with values of 'true' and 'false' 
 - PowerAutomate Flow that sets the archive flag when a project status is set to completed.
 
 ##### Code Snippet
