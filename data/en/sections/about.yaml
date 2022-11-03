@@ -8,17 +8,17 @@ section:
   template: sections/about.html
 
 # your designation
-designation: Senior Systems Engineer
+designation: Automation Solution Architect
 # your company information
 company:
-  name: Obayashi North America
-  url: "https://www.obayashi.co.jp/en/"
+  name: OmnicomMediaGroup
+  url: "https://www.omnicommediagroup.com"
 
 # your resume. this file path should be relative to you "static" directory
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I’m a Senior System Engineer at Obayashi North America. \
+summary: "I’m a Automation Solution Architect at OmnicomMediaGroup. \
   I work across teams gathering requirements, planning, implementing, and delivering applications and automation.  
   I love building solutions that make an impact on end user’s productivity.  \
   My primary tools are PowerShell, Power Platform, software development practices, and problem solving skills. "
