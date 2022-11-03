@@ -11,6 +11,22 @@ section:
 # Your experiences
 experiences:
 - company:
+    name: OmnicomMediaGroup.com
+    url: "https://www.omnicommediagroup.com"
+    location: San Francisco
+    # company overview
+    overview: Marketing and Advertising
+  positions:
+  - designation: Automation Solution Architect
+    start: April 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Develop automation solutions.
+
+
+- company:
     name: Obayashi North America
     url: "https://www.obayashi.co.jp/en/"
     location: North America
@@ -19,6 +35,7 @@ experiences:
   positions:
   - designation: Senior Systems Engineer
     start: October 2020
+    end: April 2022
     # don't provide end date if you are currently working there. It will be replaced by "Present"
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
