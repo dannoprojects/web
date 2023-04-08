@@ -18,10 +18,11 @@ company:
 # resume: "files/resume.pdf"
 
 # a summary about you
-summary: "I’m a Automation Solution Architect at OmnicomMediaGroup. \
-  I work across teams gathering requirements, planning, implementing, and delivering applications and automation.  
-  I love building solutions that make an impact on end user’s productivity.  \
-  My primary tools are PowerShell, Power Platform, software development practices, and problem solving skills. "
+summary: "As an Automation Solutions Architect at OmnicomMediaGroup, I have designed and implemented several successful \
+           automation projects that have improved efficiency, productivity, and cost-effectiveness for clients. I have developed \ 
+           Robotic Process Automation (RPA) solutions that automate manual processes, integrated data sources to streamline data collection, \ 
+           and implemented cloud flows to manage remittance notifications. Additionally, I have designed and implemented features for previously \ 
+           built in-house applications. I bring to the table extensive experience in RPA, cloud computing, and agile methodology."
 
 # your social links
 # give as many as you want. use font-awesome for the icons.
