@@ -23,11 +23,11 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Designed and built a proof of concept RPA that inputs data into a legacy platform, which was used as a basis for an enterprise-wide automation solution. \ 
-      I was responsible for designing and developing a proof of concept RPA that automates the data entry process for a legacy platform. \
-      The successful implementation of this proof of concept led to the development of an enterprise-wide automation solution that has enabled the business \
-      unit to operate more efficiently and reduce errors. The automation solution has saved the business unit 40 hours per week, resulting in significant \
-      cost savings and improved productivity
+    - Designed and implemented successful automation projects that improved efficiency, productivity, and cost-effectiveness through collaboration with internal stakeholders.
+    - Developed Robotic Process Automation (RPA) and Power Automate cloud flows to automate manual processes, integrate data sources, and streamline data collection.
+    - Designed and built a proof of concept RPA that inputs data into a legacy platform, which was used as a basis for an enterprise-wide automation solution.
+    - Designed, developed, and implemented automation to streamline data collection for company-wide reporting and manage remittance notifications through RPA and Power Automate Cloud Flows.
+    - Built new PowerApps and maintained/enhanced existing ones to develop and deploy custom business applications that streamline processes and improve overall efficiency.
 
 
 - company:
